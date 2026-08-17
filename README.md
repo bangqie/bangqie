@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm bangqie.
 
-![Bnagqie on Board](https://cdn.jsdelivr.net/gh/bangqie/bangqie@main/Github_png/Bnagqie_on_Board~20240312.png)
+![Bnagqie on Board](https://cdn.jsdelivr.net/gh/bangqie/bangqie@main/GitHub_png/Bnagqie_on_Board~20240312.png)
